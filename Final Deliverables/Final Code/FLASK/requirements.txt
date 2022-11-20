@@ -1,1 +1,17 @@
+Functional requirements:
+Following are the functional requirements of the proposed solution.
+
+
+FR-1	-Upload image-	Upload image in any format like jpg, jpeg, pdf, png.
+FR-2	-Classify image	-Classify image structure and shows the respective results.
+
+Non-Functional requirements:
+Following are the non-functional requirements of the proposed solution.
+
+NFR-1 -	Usability-	Any user can use at any time they want.
+NFR-2	- Security-	Doesn’t asks for user’s personal information.
+NFR-3	- Reliability-	Provides results with high accuracy.User friendly system.
+NFR-4 -	Performance-	There will be no interrupting in exporting the image and classifying the image.Accurate delivery of content to the respected image data.
+NFR-5	- Availability-	Available only if the internet is connected.24/7 service.
+NFR-6	- Scalability-	Supports in all kind of platforms/systems and doesn’t require any external software/hardwaresource.
 
